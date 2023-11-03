@@ -4,3 +4,4 @@ Keras==2.6.0
 gunicorn
 google-api-python-client
 nltk
+tensorflow
